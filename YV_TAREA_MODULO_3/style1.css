@@ -1,0 +1,12 @@
+
+p {width: 100%;}
+article{ width: fit-content;
+         margin: 20px; 
+         padding: 20px;
+         border-radius: 10px;
+         background-color: #222435;}
+
+prince{color:#edf2f4;font-size: 25px;}
+discount{color: #2ec4b6;
+    font-size: 16px;}
+  
