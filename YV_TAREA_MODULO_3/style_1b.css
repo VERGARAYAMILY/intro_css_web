@@ -1,13 +1,27 @@
-div{border-radius: 20px;
+div {
+  border-radius: 20px;
   margin: 5px;
   background-color: #343c8a;
 }
 
-p {width: 100%;}
-article{ width: fit-content;margin: 20px; padding: 20px;border-radius: 10px;background-color: #222435;}
+p {
+  width: 100%;
+}
 
-price {color:#edf2f4;
-font-size: 25px;}
+article {
+  width: fit-content;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #222435;
+}
 
-discount{color: #2ec4b6;
-  font-size: 16px;}
+.price {
+  color: #edf2f4;
+  font-size: 25px;
+}
+
+.discount {
+  color: #2ec4b6;
+  font-size: 16px;
+}
