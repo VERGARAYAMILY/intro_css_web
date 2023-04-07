@@ -1,0 +1,9 @@
+.price{ color: green;}
+.discount{color: hotpink;}
+article{
+    width: fit-content;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #222435;
+}
